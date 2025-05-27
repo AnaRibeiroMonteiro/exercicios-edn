@@ -11,6 +11,9 @@ distancia = 300
 combustivel_gasto = 25 
 
 
+
+
+
 consumo_medio = distancia / combustivel_gasto
 
 print(f"Distância percorrida: {distancia} km")
